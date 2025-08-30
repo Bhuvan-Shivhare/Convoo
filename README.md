@@ -1,5 +1,6 @@
 🔥 Create a Professional Chat App in Flutter - Step-by-Step Tutorial! 🔥
 <p align="center">
+Real time
   <img src="https://github.com/Bhuvan-Shivhare/Convoo/blob/main/a.png?raw=true" width="300"/>
 </p>
 
