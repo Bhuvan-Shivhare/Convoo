@@ -1,4 +1,5 @@
 🔥 Create a Professional Chat App in Flutter - Step-by-Step Tutorial! 🔥
+<br/>
   🔐 Authentication Flow
 <p align="center">
 
@@ -9,9 +10,9 @@
  
   <img src="https://github.com/Bhuvan-Shivhare/Convoo/blob/main/b.png?raw=true" width="300"/>
 </p>
-
-<p align="center">
   🚫 Block User Feature
+<p align="center">
+
   <img src="https://github.com/Bhuvan-Shivhare/Convoo/blob/main/c.png?raw=true" width="300"/>
 </p>
 
