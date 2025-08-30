@@ -2,13 +2,13 @@
 
 🔐 Authentication Flow                                                                                        💬 Real-Time Chat
 
-<p align="center"> <img src="https://github.com/Bhuvan-Shivhare/Convoo/blob/main/a.png?raw=true" width="45%"/> <img src="https://github.com/Bhuvan-Shivhare/Convoo/blob/main/b.png?raw=true" width="45%"/> </p>
+<p align="center"> <img src="https://github.com/Bhuvan-Shivhare/Convoo/blob/main/a.png?raw=true" width="45%"/>  </p>
 
 
-<p align="center"> <img src="https://github.com/Bhuvan-Shivhare/Convoo/blob/main/c.png?raw=true" width="45%"/> <img src="https://github.com/Bhuvan-Shivhare/Convoo/blob/main/d.png?raw=true" width="45%"/> </p>
+<p align="center"> <img src="https://github.com/Bhuvan-Shivhare/Convoo/blob/main/c.png?raw=true" width="45%"/></p>
 🚫 Block User Feature
 
-<p align="center"> <img src="https://github.com/Bhuvan-Shivhare/Convoo/blob/main/e.png?raw=true" width="45%"/> <img src="https://github.com/Bhuvan-Shivhare/Convoo/blob/main/f.png?raw=true" width="45%"/> </p>
+<p align="center"> <img src="https://github.com/Bhuvan-Shivhare/Convoo/blob/main/e.png?raw=true" width="45%"/> </p>
 
 
 Welcome to the repository for the **Fully Functional Chat App in Flutter** tutorial! In this repository, you'll find all the code to build an advanced, real-time chat application using Flutter, Firebase, Cubit, and GetIt for dependency injection. This app features several cool functionalities, including user authentication, real-time messaging, online status, last seen, and more!
