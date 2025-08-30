@@ -1,14 +1,17 @@
 🔥 Create a Professional Chat App in Flutter - Step-by-Step Tutorial! 🔥
+
 <p align="center">
-Real time
+  🔐 Authentication Flow
   <img src="https://github.com/Bhuvan-Shivhare/Convoo/blob/main/a.png?raw=true" width="300"/>
 </p>
 
 <p align="center">
+  💬 Real-Time Chat
   <img src="https://github.com/Bhuvan-Shivhare/Convoo/blob/main/b.png?raw=true" width="300"/>
 </p>
 
 <p align="center">
+  🚫 Block User Feature
   <img src="https://github.com/Bhuvan-Shivhare/Convoo/blob/main/c.png?raw=true" width="300"/>
 </p>
 
